@@ -1,4 +1,3 @@
 hello all 
 will 
-do 
-it
+things fallen in the place if ypu have patience

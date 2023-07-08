@@ -24,4 +24,8 @@ fear is doing all bloody things with us
 >>>>>>> stage
 =======
 i am from anantapur and godavari in my village .but feel free to announce innings about freedom good location in my place
+<<<<<<< HEAD
 >>>>>>> 42b541f3da6bbe714c8b4f2a31dad5aa69629f8c
+=======
+very good carryon
+>>>>>>> 520c8d9547ad0eb6b70308422b68effaa2866727
